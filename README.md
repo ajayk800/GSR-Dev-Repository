@@ -10,22 +10,22 @@
 
 #### Sanitize | Optimize PHP and MySQL Code: Pages to Work On
 
--	Mysql_con.php
--	Index.php
--	Submit.php
--	Header.php
--	Links.php
--	Edit-game.php
--	Editguide.php
--	Editnews.php
--	Editoption.php
--	Editreview.php
+- [ ]	mysql_con.php
+-	[ ]	index.php
+-	[ ]	submit.php
+-	[ ]	header.php
+-	[ ]	links.php
+-	[ ]	edit-game.php
+-	[ ]	editguide.php
+-	[ ]	editnews.php
+-	[ ]	editoption.php
+-	[ ]	editreview.php
 
 #### LocalHost Setup
 
--[x] Clone | Download Repo | Files
--[x] Create New gameshar_gsr DB
--[x] Import localSQLGSR SQL File
+- [x] Clone | Download Repo | Files
+- [x] Create New gameshar_gsr DB
+- [x] Import localSQLGSR SQL File
 
 
 
