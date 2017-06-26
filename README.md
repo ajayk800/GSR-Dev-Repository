@@ -1,7 +1,7 @@
 # GSR-Dev-Repository
-[Link](gamesharkreviews.com)
+[Website-Link](https://gamesharkreviews.com/)
 
-### Game Shark Reviews Website - Ajay's Contribution
+### Game Shark Reviews Website - My Job
 
 
 
@@ -23,9 +23,9 @@
 
 #### LocalHost Setup
 
-[x] Clone | Download Repo | Files
-[x] Create New gameshar_gsr DB
-[x] Import localSQLGSR SQL File
+-[x] Clone | Download Repo | Files
+-[x] Create New gameshar_gsr DB
+-[x] Import localSQLGSR SQL File
 
 
 
